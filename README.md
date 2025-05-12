@@ -22,8 +22,8 @@ Looking forward to our paths crossing in this digital universe!
 | ![Profile Views](https://komarev.com/ghpvc/?username=YusufOnatYilmaz&color=brightgreen) |
 
 ## Connect with Me 🌐
-| LinkedIn | Sezer Sevval YouTube | IMSezer YouTube | My Personal Website |
-|:--------:|:--------------------:|:---------------:|:-------------------:|
+| LinkedIn |
+|:--------:|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusuf-onat-y%C4%B1lmaz-ba07741a1/) |
 
 ## Some Skills
